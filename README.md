@@ -1,6 +1,6 @@
-# nice_secend_assign
+# NIC_secend_assignment 
 
-A new Flutter project.
+Q: Create a flutter application with Listview that show all the player names of pak cricket team.
 
 ## Getting Started
 
